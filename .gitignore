@@ -79,3 +79,15 @@ __pycache__/
 
 # in-repo catkin_ws
 catkin_ws/
+
+# CMake trash
+CMakeCache.txt
+**/CMakeFiles/
+**/Makefile
+**/cmake_install.cmake
+CTestTestfile.cmake
+cmake-build-debug/
+
+#no Pycharm / CLion project files 
+.idea/** 
+**/.idea/
